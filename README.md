@@ -1,6 +1,7 @@
 # Predicting-Property-Prices-in-Melbourne-Using-Bayesian-Analysis
 
-/Repository guide:/
+## Repository guide:
+
 * Data => Assignment2PropertyPrices.csv
 * Analysis and Reporting => Analysis and Prediction Report.docx
 * Code => code.R
