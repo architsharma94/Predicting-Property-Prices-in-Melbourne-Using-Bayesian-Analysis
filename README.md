@@ -1,5 +1,8 @@
 # Predicting-Property-Prices-in-Melbourne-Using-Bayesian-Analysis
 
+Repository guide:
+
+
 ## Introduction
 
 Before COVID-19, Australia’s real estate was presumed as a constantly booming industry, for a significantly long period of time. As part of the development plans for its major cities, assessment and prediction of volatility in property prices has been a hot topic amongst data scientists ever since. The analysts have been putting in tremendous efforts to collect and examine property prices in the city of Melbourne, which is a major contributor in Australia’s economy.
